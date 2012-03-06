@@ -1,0 +1,16 @@
+#Wed Nov 30 11:33:21 CST 2011
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/CPATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/CPATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/CPLUS_INCLUDE_PATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/CPLUS_INCLUDE_PATH/value=D\:\\AV_15\\bin\\Cygwin\\lib\\gcc\\i686-pc-cygwin\\4.5.3\\include\\c++
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/C_INCLUDE_PATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/C_INCLUDE_PATH/value=D\:\\AV_15\\bin\\Cygwin\\lib\\gcc\\i686-pc-cygwin\\4.5.3\\include;D\:\\AV_15\\bin\\Cygwin\\usr\\include
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/append=true
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/appendContributed=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/append=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.cygwin.base.39560642/appendContributed=true
